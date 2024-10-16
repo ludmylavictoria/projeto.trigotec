@@ -8,11 +8,11 @@
 - linguagens de programação: python
 - Github para guardar o código
 - conhecimento matemático 
-# Menbros do grupo
+# Membros do grupo
 - joão carlos
 - fabio
 - mariana
-- ludmila
+- ludmyla
 - matheus caina
 # Exemplo de uso
 - Exibe um menu para o usuário escolher entre calcular a hipotenusa ou os valores das funções trigonométricas.
